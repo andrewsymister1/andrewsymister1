@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @andrewsymister aka Drew 
-- 👀 I’m interested in CyberSecurity and Cloud ...
-- 🌱 I’m currently learning Python,Cloud infastructure and Vulnerability Management ...
-- 💞️ I’m looking to collaborate on Cloud Computing ...
-- 📫 How to reach me @Andrewsymister1@icloud.com ...
+👋 Hi, I’m Andrew Symister (Drew)
 
-<!---
-andrewsymister1/andrewsymister1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 I specialize in Identity & Access Management (IAM), cloud identity security, and access governance within enterprise environments.
+
+🧠 My work focuses on:
+- Identity lifecycle (JML) automation
+- Authentication & authorization (SAML, OAuth, OIDC, SCIM)
+- Microsoft Entra ID, Okta, CyberArk, and hybrid identity systems
+- Security-first design with real-world operational thinking
+
+🛠️ I build hands-on labs and projects that mirror production IAM scenarios, emphasizing risk reduction, access control, and auditability.
+
+🔗 Portfolio: https://iamandrewsymister.com  
+
